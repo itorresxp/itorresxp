@@ -31,7 +31,7 @@
 
 <br/>
 
-<h2 align="center">⚡ Arsenal Tecnológico Adaptativo</h2>
+<h2 align="center">⚡ Arsenal Tecnológico</h2>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,java,cpp,php,nodejs,react,mysql,git,github,regex,powershell&theme=light&perline=6">
