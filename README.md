@@ -1,20 +1,14 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=%3C+IAN_TORRES+%2F%3E;%7B+RPA_DEVELOPER+%7D;%5B+SOFTWARE_ENGINEER+%5D" alt="Glitch Header" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=IAN%20TORRES&fontSize=65&fontAlignY=35&fontColor=ffffff&desc=RPA%20Engineer%20%7C%20Automating%20the%20Future&descAlignY=60&descAlign=50&customColorList=0D1117,0052CC,7AA2F7&animation=fadeIn" width="100%" alt="Cyber Header"/>
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=40&lines=Automatizando+o+invis%C3%ADvel+na+Lecom.;Engenharia+de+Software+%2B+L%C3%B3gica+Avan%C3%A7ada." alt="Typing Subtitle" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Data Stream Divider"/>
 </div>
-
-<br/>
+<br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/> <br><br>
-  <pre align="left" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 10px; padding: 20px; box-shadow: 0 0 20px rgba(94, 166, 255, 0.1);">
+  <pre align="left" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 10px; padding: 20px; box-shadow: 0 0 25px rgba(122, 162, 247, 0.15);">
 <code><span style="color: #7AA2F7;">const</span> <span style="color: #FF9E64;">ianProfile</span> = {
   <span style="color: #73DACA;">cargoAtual</span>: <span style="color: #9ECE6A;">"RPA Developer @ Lecom"</span>,
   <span style="color: #73DACA;">missao</span>: <span style="color: #9ECE6A;">"Criar arquiteturas de automação que eliminam o trabalho manual."</span>,
@@ -28,47 +22,41 @@
 </pre>
 </div>
 
-<br/>
+<br>
 
-<h2 align="center">⚡ Arsenal Tecnológico Adaptativo</h2>
+<h3 align="center">⚡ Arsenal Tecnológico Adaptativo</h3>
 <div align="center">
-  <p><i>(Estes ícones mudam de cor dependendo do tema do seu GitHub!)</i></p>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,java,cpp,php,nodejs,react,mysql,git,github,regex,powershell&theme=light&perline=6">
     <img src="https://skillicons.dev/icons?i=python,js,java,cpp,php,nodejs,react,mysql,git,github,regex,powershell&theme=dark&perline=6" alt="Skills Adaptativas">
   </picture>
 </div>
 
-<br/>
+<br>
 
-<h2 align="center">🔥 Core Languages</h2>
+<h3 align="center">🕹️ Atividade do Sistema (Snake Game)</h3>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,js,java,nodejs&theme=light">
-    <img src="https://skillicons.dev/icons?i=py,js,java,nodejs&theme=dark" alt="Core Langs">
-  </picture>
+  <img src="https://github-readme-snake.vercel.app/api?username=SEU_USUARIO_GITHUB&theme=tokyonight&bg_color=0D1117&hide_border=true&color_snake=7AA2F7&color_dots=9ECE6A" alt="Snake Game Contribution Graph" width="100%" />
 </div>
 
-<br/>
+<br>
 
-<h2 align="center">🚀 Projetos em Destaque</h2>
-<table align="center" style="border: none;">
+<h3 align="center">🚀 Projetos em Destaque</h3>
+<table align="center" style="border: none; width: 100%;">
   <tr style="border: none;">
     <td align="center" width="50%" style="border: none; padding: 10px;">
       <a href="https://itorresxp.github.io/Index/?fbclid=PAQ0xDSwMLUvVleHRuA2FlbQIxMQABp9SpWPVVSIIYYzsqi93ZRr5WmnXDtfkNtkOmmbwwDVyIarfR2jA60PgcUTUA_aem_gcKAsaZvpYRiUgn5n4L_ww" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0052CC&text=SISTEMA%20PRINCIPAL&fontColor=ffffff&fontSize=25&height=100&width=300&stroke=7AA2F7&strokeWidth=2" alt="Projeto 1 Card" style="border-radius: 10px;box-shadow: 0 0 15px rgba(0, 82, 204, 0.5);"/>
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0052CC&text=SISTEMA%20PRINCIPAL&fontColor=ffffff&fontSize=22&height=90&width=100%&stroke=7AA2F7&strokeWidth=2&animation=fadeIn" alt="Projeto 1 Card" style="border-radius: 12px;box-shadow: 0 0 20px rgba(0, 82, 204, 0.4);"/>
       </a>
-      <p>Interface Principal & Dashboard</p>
     </td>
     <td align="center" width="50%" style="border: none; padding: 10px;">
       <a href="https://itorresxp.github.io/arquivo/" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=ARQUIVO%20%2F%20DOCS&fontColor=7AA2F7&fontSize=25&height=100&width=300&stroke=7AA2F7&strokeWidth=2" alt="Projeto 2 Card" style="border-radius: 10px;box-shadow: 0 0 15px rgba(122, 162, 247, 0.3);"/>
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=DOCS%20%2F%20ARQUIVO&fontColor=7AA2F7&fontSize=22&height=90&width=100%&stroke=7AA2F7&strokeWidth=2&animation=fadeIn" alt="Projeto 2 Card" style="border-radius: 12px;box-shadow: 0 0 20px rgba(122, 162, 247, 0.3);"/>
       </a>
-      <p>Documentação e Arquivos</p>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&customColorList=0D1117,1A1B26,58A6FF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&customColorList=0D1117,1A1B26,0052CC&animation=fadeIn" width="100%"/>
 </div>
