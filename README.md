@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=%3C+IAN_TORRES+%2F%3E;%7B+RPA_DEVELOPER+%7D;%5B+SOFTWARE_ENGINEER+%5D" alt="Glitch Header" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=%3C+IAN_TORRES+%2F%3E;%7B+FULL_STACK_DEV+%7D;%5B+RPA_ENGINEER+%5D" alt="Glitch Header" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=40&lines=Automatizando+o+invis%C3%ADvel+na+Lecom.;Engenharia+de+Software+%2B+L%C3%B3gica+Avan%C3%A7ada." alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Developer.;Atuando+como+RPA+na+Lecom.;Do+Front-End+%C3%A0+Automa%C3%A7%C3%A3o+Rob%C3%B3tica." alt="Typing Subtitle" />
   </a>
 </div>
 
@@ -17,13 +17,14 @@
   <br><br>
   <pre align="left" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 10px; padding: 20px; box-shadow: 0 0 20px rgba(94, 166, 255, 0.1);">
 <code><span style="color: #7AA2F7;">const</span> <span style="color: #FF9E64;">ianProfile</span> = {
-  <span style="color: #73DACA;">cargoAtual</span>: <span style="color: #9ECE6A;">"RPA Developer @ Lecom"</span>,
-  <span style="color: #73DACA;">missao</span>: <span style="color: #9ECE6A;">"Criar arquiteturas de automação que eliminam o trabalho manual."</span>,
-  <span style="color: #73DACA;">stackFoco</span>: [<span style="color: #9ECE6A;">"Python"</span>, <span style="color: #9ECE6A;">"JavaScript"</span>, <span style="color: #9ECE6A;">"RPA Tools"</span>],
+  <span style="color: #73DACA;">roleAtual</span>: <span style="color: #9ECE6A;">"RPA Developer @ Lecom"</span>,
+  <span style="color: #73DACA;">trueClass</span>: <span style="color: #9ECE6A;">"Full Stack Developer"</span>,
+  <span style="color: #73DACA;">missao</span>: <span style="color: #9ECE6A;">"Desenvolver soluções ponta a ponta e arquiteturas de automação que eliminam o trabalho manual."</span>,
+  <span style="color: #73DACA;">stackFoco</span>: [<span style="color: #9ECE6A;">"Node.js"</span>, <span style="color: #9ECE6A;">"React"</span>, <span style="color: #9ECE6A;">"Python"</span>, <span style="color: #9ECE6A;">"Java"</span>],
   <span style="color: #73DACA;">local</span>: <span style="color: #9ECE6A;">"Bauru, SP 🇧🇷"</span>,
   <span style="color: #73DACA;">contato</span>: {
     <span style="color: #73DACA;">linkedin</span>: <a href="https://www.linkedin.com/in/ian-torres-0b78a72b8/" target="_blank" style="text-decoration: none; color: #58A6FF;">"/in/ian-torres"</a>,
-    <span style="color: #73DACA;">email</span>: <a href="mailto:ian.torres@lecom.com.br" style="text-decoration: none; color: #58A6FF;">"iantorres.201611@gmail.com"</a>
+    <span style="color: #73DACA;">email</span>: <a href="mailto:iantorres.201611@gmail.com" style="text-decoration: none; color: #58A6FF;">"iantorres.201611@gmail.com"</a>
   }
 };</code>
 </pre>
