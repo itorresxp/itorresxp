@@ -42,7 +42,6 @@
 <br/>
 
 <h2 align="center">⚡ Arquitetura de Software & Skills</h2>
-<p align="center"><i>(Clique nos diretórios abaixo para expandir e carregar os módulos)</i></p>
 
 <div align="center">
   <details style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 15px; margin-bottom: 15px; width: 80%; cursor: pointer; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
