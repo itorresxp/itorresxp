@@ -1,75 +1,82 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180§ion=header&text… width="100%"/>
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=RPA+Developer+%40+Lecom;Engenharia+de+Software;Automatizando+processos+complexos;Lógica.+Automação.+Eficiência.%22 alt="Typing SVG" />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=%3C+IAN_TORRES+%2F%3E;%7B+FULL_STACK_DEV+%7D;%5B+RPA_ENGINEER+%5D" alt="Glitch Header" />
+  </a>
 </div>
- 
-<br/>
- 
-<h2 align="center">👨🏻‍💻 System.Bio</h2>
+
 <div align="center">
-<pre>
-<code>
-{
-  "nome": "Ian Torres",
-  "cargoAtual": "RPA Developer @ Lecom",
-  "foco": ["Robotic Process Automation", "Engenharia de Software"],
-  "missao": "Transformar processos operacionais complexos em soluções automatizadas, ágeis e infalíveis.",
-  "localizacao": "Bauru, SP - Brasil",
-  "contato": {
-    "email": "iantorres.201611",
-    "linkedin": "https://www.linkedin.com/in/ian-torres-0b78a72b8/"
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Developer.;Atuando+como+RPA+na+Lecom.;Do+Front-End+%C3%A0+Automa%C3%A7%C3%A3o+Rob%C3%B3tica." alt="Typing Subtitle" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <br><br>
+  <pre align="left" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 10px; padding: 20px; box-shadow: 0 0 20px rgba(94, 166, 255, 0.1);">
+<code><span style="color: #7AA2F7;">const</span> <span style="color: #FF9E64;">ianProfile</span> = {
+  <span style="color: #73DACA;">roleAtual</span>: <span style="color: #9ECE6A;">"RPA Developer @ Lecom"</span>,
+  <span style="color: #73DACA;">trueClass</span>: <span style="color: #9ECE6A;">"Full Stack Developer"</span>,
+  <span style="color: #73DACA;">missao</span>: <span style="color: #9ECE6A;">"Desenvolver soluções ponta a ponta e arquiteturas de automação que eliminam o trabalho manual."</span>,
+  <span style="color: #73DACA;">stackFoco</span>: [<span style="color: #9ECE6A;">"Node.js"</span>, <span style="color: #9ECE6A;">"React"</span>, <span style="color: #9ECE6A;">"Python"</span>, <span style="color: #9ECE6A;">"Java"</span>],
+  <span style="color: #73DACA;">local</span>: <span style="color: #9ECE6A;">"Bauru, SP 🇧🇷"</span>,
+  <span style="color: #73DACA;">contato</span>: {
+    <span style="color: #73DACA;">linkedin</span>: <a href="https://www.linkedin.com/in/ian-torres-0b78a72b8/" target="_blank" style="text-decoration: none; color: #58A6FF;">"/in/ian-torres"</a>,
+    <span style="color: #73DACA;">email</span>: <a href="mailto:iantorres.201611@gmail.com" style="text-decoration: none; color: #58A6FF;">"iantorres.201611@gmail.com"</a>
   }
-}
-</code>
+};</code>
 </pre>
 </div>
- 
+
 <br/>
- 
-<h2 align="center">⚙️ Stack Principal</h2>
+
+<h2 align="center">⚡ Arsenal Tecnológico</h2>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,java,cpp,php,nodejs,react,mysql,git,github,regex,powershell&theme=dark&perline=6%22 alt="Tech Stack do Ian" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,java,cpp,php,nodejs,react,mysql,git,github,regex,powershell&theme=light&perline=6">
+    <img src="https://skillicons.dev/icons?i=python,js,java,cpp,php,nodejs,react,mysql,git,github,regex,powershell&theme=dark&perline=6" alt="Skills Adaptativas">
+  </picture>
 </div>
- 
+
 <br/>
- 
-<h2 align="center">🔥 Linguagens Mais Usadas</h2>
+
+<h2 align="center">🔥 Core Languages</h2>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,js,java,nodejs&theme=dark" alt="Linguagens Principais" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,js,java,nodejs&theme=light">
+    <img src="https://skillicons.dev/icons?i=py,js,java,nodejs&theme=dark" alt="Core Langs">
+  </picture>
 </div>
- 
+
 <br/>
- 
+
+<h2 align="center">🕹️ Atividade do Sistema</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/itorresxp/itorresxp/output/github-snake.svg" alt="Snake Game Contribution Graph" width="100%" />
+</div>
+
+<br/>
+
 <h2 align="center">🚀 Projetos em Destaque</h2>
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: none; padding: 10px;">
+      <a href="https://itorresxp.github.io/Index/?fbclid=PAQ0xDSwMLUvVleHRuA2FlbQIxMQABp9SpWPVVSIIYYzsqi93ZRr5WmnXDtfkNtkOmmbwwDVyIarfR2jA60PgcUTUA_aem_gcKAsaZvpYRiUgn5n4L_ww" target="_blank">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0052CC&text=SISTEMA%20PRINCIPAL&fontColor=ffffff&fontSize=25&height=100&width=300&stroke=7AA2F7&strokeWidth=2" alt="Projeto 1 Card" style="border-radius: 10px;box-shadow: 0 0 15px rgba(0, 82, 204, 0.5);"/>
+      </a>
+      <p>Interface Principal & Dashboard</p>
+    </td>
+    <td align="center" width="50%" style="border: none; padding: 10px;">
+      <a href="https://itorresxp.github.io/arquivo/" target="_blank">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=ARQUIVO%20%2F%20DOCS&fontColor=7AA2F7&fontSize=25&height=100&width=300&stroke=7AA2F7&strokeWidth=2" alt="Projeto 2 Card" style="border-radius: 10px;box-shadow: 0 0 15px rgba(122, 162, 247, 0.3);"/>
+      </a>
+      <p>Documentação e Arquivos</p>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-<a href="https://itorresxp.github.io/Index/?fbclid=PAQ0xDSwMLUvVleHRuA2FlbQIxMQABp9SpWPVVSIIYYzsqi93ZRr5WmnXDtfkNtkOmmbwwDVyIarfR2jA60PgcUTUA_aem_gcKAsaZvpYRiUgn5n4L_ww%22 target="_blank">
-<img src="https://img.shields.io/badge/💻_Visualizar_Projeto_1-7AA2F7?style=for-the-badge&logoColor=white&labelColor=1A1B26%22 alt="Projeto 1"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://itorresxp.github.io/arquivo/" target="_blank">
-<img src="https://img.shields.io/badge/📂_Visualizar_Projeto_2-7AA2F7?style=for-the-badge&logoColor=white&labelColor=1A1B26%22 alt="Projeto 2"/>
-</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&customColorList=0D1117,1A1B26,58A6FF" width="100%"/>
 </div>
- 
-<br/>
- 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
-</div>
- 
-<!--
-**itorresxp/itorresxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
-Here are some ideas to get you started:
- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
