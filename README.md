@@ -23,7 +23,7 @@
   <span style="color: #73DACA;">local</span>: <span style="color: #9ECE6A;">"Bauru, SP 🇧🇷"</span>,
   <span style="color: #73DACA;">contato</span>: {
     <span style="color: #73DACA;">linkedin</span>: <a href="https://www.linkedin.com/in/ian-torres-0b78a72b8/" target="_blank" style="text-decoration: none; color: #58A6FF;">"/in/ian-torres"</a>,
-    <span style="color: #73DACA;">email</span>: <a href="mailto:ian.torres@lecom.com.br" style="text-decoration: none; color: #58A6FF;">"ian.torres@lecom.com.br"</a>
+    <span style="color: #73DACA;">email</span>: <a href="mailto:ian.torres@lecom.com.br" style="text-decoration: none; color: #58A6FF;">"iantorres.201611@gmail.com"</a>
   }
 };</code>
 </pre>
