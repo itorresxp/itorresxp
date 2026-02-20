@@ -33,7 +33,6 @@
 
 <h2 align="center">⚡ Arsenal Tecnológico Adaptativo</h2>
 <div align="center">
-  <p><i>(Estes ícones mudam de cor dependendo do tema do seu GitHub!)</i></p>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,java,cpp,php,nodejs,react,mysql,git,github,regex,powershell&theme=light&perline=6">
     <img src="https://skillicons.dev/icons?i=python,js,java,cpp,php,nodejs,react,mysql,git,github,regex,powershell&theme=dark&perline=6" alt="Skills Adaptativas">
