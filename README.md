@@ -54,7 +54,7 @@
 
 <h2 align="center">🕹️ Atividade do Sistema</h2>
 <div align="center">
-  <img src="https://github-readme-snake.vercel.app/api?username=SEU_USUARIO_GITHUB&theme=tokyonight&bg_color=0D1117&hide_border=true&color_snake=7AA2F7&color_dots=9ECE6A" alt="Snake Game Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/itorresxp/itorresxp/output/github-snake.svg" alt="Snake Game Contribution Graph" width="100%" />
 </div>
 
 <br/>
