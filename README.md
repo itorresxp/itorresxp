@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Developer.;Atuando+como+Desenvolvedor FullStack+na+Loja da construção;Do+Front-End+%C3%A0+Automa%C3%A7%C3%A3o+Rob%C3%B3tica." alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Developer.;Atuando+como+Desenvolvedor FullStack+na+Loja+da+construção;Do+Front-End+%C3%A0+Automa%C3%A7%C3%A3o+Rob%C3%B3tica." alt="Typing Subtitle" />
   </a>
 </div>
 
@@ -26,7 +26,7 @@
   </div>
   <pre align="left" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 0 0 10px 10px; padding: 20px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5); margin-top: 0;">
 <code><span style="color: #7AA2F7;">const</span> <span style="color: #FF9E64;">ianProfile</span> = {
-  <span style="color: #73DACA;">roleAtual</span>: <span style="color: #9ECE6A;">"RPA Developer @ Lecom"</span>,
+  <span style="color: #73DACA;">roleAtual</span>: <span style="color: #9ECE6A;">"Full-stack developer @ Loja da construção"</span>,
   <span style="color: #73DACA;">trueClass</span>: <span style="color: #9ECE6A;">"Full Stack Developer"</span>,
   <span style="color: #73DACA;">missao</span>: <span style="color: #9ECE6A;">"Desenvolver soluções ponta a ponta e arquiteturas de automação que eliminam o trabalho manual."</span>,
   <span style="color: #73DACA;">stackFoco</span>: [<span style="color: #9ECE6A;">"Node.js"</span>, <span style="color: #9ECE6A;">"React"</span>, <span style="color: #9ECE6A;">"Python"</span>, <span style="color: #9ECE6A;">"Java"</span>],
