@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Developer.;Atuando+como+RPA+na+Lecom.;Do+Front-End+%C3%A0+Automa%C3%A7%C3%A3o+Rob%C3%B3tica." alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Developer.;Atuando+como+Desenvolvedor FullStack+na+Loja da construção;Do+Front-End+%C3%A0+Automa%C3%A7%C3%A3o+Rob%C3%B3tica." alt="Typing Subtitle" />
   </a>
 </div>
 
